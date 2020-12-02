@@ -1,4 +1,0 @@
-2020-12-01 21:23:32,629 [base_page.py] <函数:__init__>行数:21 -INFO- 启动app。。。。。。
-2020-12-01 21:23:32,630 [page_login.py] <函数:login_operation>行数:40 -INFO- 输入帐号密码登录。。。。。。
-2020-12-01 21:23:35,583 [page_login.py] <函数:login_operation>行数:44 -INFO- 输入密码。。。。。。
-2020-12-01 21:23:36,591 [page_login.py] <函数:login_operation>行数:46 -INFO- 点击登录。。。。。。
